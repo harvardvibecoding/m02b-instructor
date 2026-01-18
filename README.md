@@ -1,1 +1,1 @@
-# m2-project
+Instructor output for basic app, created by AI.
