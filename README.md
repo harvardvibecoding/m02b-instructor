@@ -1,6 +1,6 @@
-Instructor AI prompt generated output for basic headcount app.
+This project contains example data for a merger and aquisition scenario in the `data_room/` folder.  We focus on the `data_room/people` folder more closely.  Here, you will find the initial output of the instructor's AI in `people_headcount_app.py`.
 
-Run the Streamlit app:
+To run the Streamlit app:
 
 ```bash
 streamlit run people_headcount_app.py
