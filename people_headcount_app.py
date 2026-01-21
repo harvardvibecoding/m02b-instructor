@@ -1,3 +1,11 @@
+### Headcount Simulator App
+### m02b-instructor/people_headcount_app.py
+###
+### Author: Sharon + GitHub Copilot
+### Date: Jan 20, 2026
+###
+### First prompt results, using GPT-5 mini.
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
